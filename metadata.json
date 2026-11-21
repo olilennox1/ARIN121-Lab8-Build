@@ -1,0 +1,6 @@
+{
+  "name": "PrepQuiz - University Practice Quiz Generator",
+  "description": "Generate custom multiple-choice practice quizzes from university study notes with instant scoring, answer keys, and detailed explanations using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
